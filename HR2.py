@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Initialize Pygame
+# Initialize Pygame jay
 pygame.init()
 
 # Define colors
